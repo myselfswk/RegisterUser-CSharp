@@ -11,3 +11,5 @@ F:\VPL Assignments\RegisterUser-CSharp\obj\Debug\RegisterUser-CSharp.pdb
 F:\VPL Assignments\RegisterUser-CSharp\obj\Debug\RegisterUser_CSharp.RegisterUser.resources
 F:\VPL Assignments\RegisterUser-CSharp\obj\Debug\RegisterUser_CSharp.LoginUser.resources
 F:\VPL Assignments\RegisterUser-CSharp\obj\Debug\RegisterUser_CSharp.Dashboard.resources
+F:\VPL Assignments\RegisterUser-CSharp\obj\Debug\RegisterUser_CSharp.textEditor.resources
+F:\VPL Assignments\RegisterUser-CSharp\obj\Debug\RegisterUser_CSharp.stopWatch.resources

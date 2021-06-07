@@ -105,6 +105,12 @@
     <EmbeddedResource Include="RegisterUser.resx">
       <DependentUpon>RegisterUser.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="stopWatch.resx">
+      <DependentUpon>stopWatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="textEditor.resx">
+      <DependentUpon>textEditor.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

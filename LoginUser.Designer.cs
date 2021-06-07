@@ -41,7 +41,7 @@ namespace RegisterUser_CSharp
             // 
             this.lblLoginUser.AutoSize = true;
             this.lblLoginUser.Font = new System.Drawing.Font("Microsoft YaHei UI", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblLoginUser.Location = new System.Drawing.Point(278, 35);
+            this.lblLoginUser.Location = new System.Drawing.Point(196, 31);
             this.lblLoginUser.Name = "lblLoginUser";
             this.lblLoginUser.Size = new System.Drawing.Size(222, 50);
             this.lblLoginUser.TabIndex = 0;
@@ -51,7 +51,7 @@ namespace RegisterUser_CSharp
             // 
             this.lblUsername.AutoSize = true;
             this.lblUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUsername.Location = new System.Drawing.Point(202, 144);
+            this.lblUsername.Location = new System.Drawing.Point(120, 140);
             this.lblUsername.Name = "lblUsername";
             this.lblUsername.Size = new System.Drawing.Size(118, 25);
             this.lblUsername.TabIndex = 1;
@@ -61,7 +61,7 @@ namespace RegisterUser_CSharp
             // 
             this.lblpassword.AutoSize = true;
             this.lblpassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblpassword.Location = new System.Drawing.Point(202, 232);
+            this.lblpassword.Location = new System.Drawing.Point(120, 228);
             this.lblpassword.Name = "lblpassword";
             this.lblpassword.Size = new System.Drawing.Size(114, 25);
             this.lblpassword.TabIndex = 1;
@@ -69,14 +69,14 @@ namespace RegisterUser_CSharp
             // 
             // txtUsername
             // 
-            this.txtUsername.Location = new System.Drawing.Point(355, 148);
+            this.txtUsername.Location = new System.Drawing.Point(273, 144);
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(184, 20);
             this.txtUsername.TabIndex = 1;
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(355, 237);
+            this.txtPassword.Location = new System.Drawing.Point(273, 233);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(184, 20);
             this.txtPassword.TabIndex = 2;
@@ -84,7 +84,7 @@ namespace RegisterUser_CSharp
             // btnLogin
             // 
             this.btnLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLogin.Location = new System.Drawing.Point(375, 297);
+            this.btnLogin.Location = new System.Drawing.Point(293, 293);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(144, 49);
             this.btnLogin.TabIndex = 3;
@@ -96,7 +96,7 @@ namespace RegisterUser_CSharp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(657, 449);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.txtUsername);
